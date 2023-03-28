@@ -20,11 +20,11 @@ const table = prompt(t)
 console.log(table)
 const age = 13;
 const friendAge = 12;
-const math = alert(age-friendAge);
+const math = alert(age + friendAge);
 const group = 12321312;
-console.log(group,"Я навчаюся в GoITeens в групі");
+console.log("Я навчаюся в GoITeens в групі:", group);
 let name = "Обрано «MacBook Pro 13»";
 let price = "ціна за штуку 10000";
 console.log(name,price);
 price = "ціна за штуку 20000";
-console.log(name,price)
+console.log(name,price);
